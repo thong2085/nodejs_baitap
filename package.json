@@ -1,0 +1,32 @@
+{
+  "name": "nodejs_baitap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --inspect main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thong2085/nodejs_baitap.git"
+  },
+  "keywords": [
+    "nodejs",
+    "thong",
+    "thong",
+    "nodejs"
+  ],
+  "author": "thong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thong2085/nodejs_baitap/issues"
+  },
+  "homepage": "https://github.com/thong2085/nodejs_baitap#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
